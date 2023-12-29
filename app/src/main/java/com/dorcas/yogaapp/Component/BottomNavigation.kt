@@ -52,7 +52,7 @@ fun BottomNavigation(modifier: Modifier = Modifier) {
         )
     }
 }
-@Preview(showBackground = true, backgroundColor = 0xdedede)
+@Preview(showBackground = true, backgroundColor = 0x999999)
 @Composable
 fun BottomNavigationPreview() {
     YogaAppTheme {

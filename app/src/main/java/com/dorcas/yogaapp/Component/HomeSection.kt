@@ -46,7 +46,7 @@ fun HomeSection(
 
 
 
-@Preview(widthDp = 360, heightDp = 700)
+@Preview(widthDp = 360, heightDp = 640)
 @Composable
 fun YogaAppPreview() {
     YogaAppTheme {
